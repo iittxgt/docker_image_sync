@@ -1,3 +1,3 @@
 # 支持指定架构、多架构
---platform=linux/amd64 flannel/flannel
-# --platform=linux/amd64 flannel/flannel-cni-plugin
+flannel/flannel:v0.25.6
+flannel/flannel-cni-plugin:v1.5.1-flannel2
