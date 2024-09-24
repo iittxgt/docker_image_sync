@@ -1,3 +1,4 @@
 # 支持指定架构、多架构
 flannel/flannel:v0.19.1
 flannel/flannel-cni-plugin:v1.1.0
+kubeedge/cloudcore:v1.18.0
